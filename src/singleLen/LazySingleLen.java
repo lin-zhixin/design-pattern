@@ -1,3 +1,5 @@
+package singleLen;
+
 import java.util.Objects;
 
 public class LazySingleLen {

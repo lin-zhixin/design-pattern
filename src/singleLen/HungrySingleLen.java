@@ -1,3 +1,5 @@
+package singleLen;
+
 public class HungrySingleLen {
     private  static final HungrySingleLen singleLen =new HungrySingleLen();//
     private HungrySingleLen(){// private 标识限制外部进行访问
